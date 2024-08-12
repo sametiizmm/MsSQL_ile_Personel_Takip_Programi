@@ -1,8 +1,12 @@
+Bu proje, bir şirketin çalışanlarını, maaşlarını, bölümlerini ve kullanıcılarını yönetmek amacıyla tasarlanmış bir veritabanı sistemidir. 
+Bu sistem sayesinde şirket, çalışanların bilgilerini düzenli bir şekilde kaydedebilir, maaşlarını takip edebilir, 
+çalışanların hangi departmanlarda çalıştığını ve hangi görevlerde bulunduğunu izleyebilir.
+
 Projede sağlanan başlıca işlevler:
 
-**Çalışan Yönetimi:** Şirketin çalışanlarının ad, soyad, doğum tarihi, adres, iletişim bilgileri gibi kişisel bilgilerini kayıt altına alır. Ayrıca çalışanların iş başlangıç ve bitiş tarihleri, maaşları, SGK numaraları gibi bilgileri de tutulur.
-**Maaş Yönetimi:** Çalışanların maaş bilgilerini, komisyonlarını ve toplam maaşlarını takip eder. Bu bilgiler, şirketin mali yönetimi ve bütçe planlaması için önemlidir.
-**Bölüm Yönetimi:** Şirketin farklı departmanlarını ve bu departmanlardaki yöneticileri organize eder. Her bir bölümün adı, iletişim bilgileri ve yönetici bilgileri kayıt altına alınır.
-**Kullanıcı Yönetimi:** Şirketin kullanıcılarını ve bu kullanıcıların yetki seviyelerini yönetir. Örneğin, bir kullanıcı bir yönetici mi yoksa normal bir personel mi olduğu bu sistem üzerinden belirlenebilir.
-**Kategori Yönetimi:** Çalışanların unvanlarını, cinsiyetlerini, çalıştıkları il ve ilçeleri, ülke bilgilerini ve diğer kategorik bilgileri yönetir.
+Çalışan Yönetimi: Şirketin çalışanlarının ad, soyad, doğum tarihi, adres, iletişim bilgileri gibi kişisel bilgilerini kayıt altına alır. Ayrıca çalışanların iş başlangıç ve bitiş tarihleri, maaşları, SGK numaraları gibi bilgileri de tutulur.
+Maaş Yönetimi: Çalışanların maaş bilgilerini, komisyonlarını ve toplam maaşlarını takip eder. Bu bilgiler, şirketin mali yönetimi ve bütçe planlaması için önemlidir.
+Bölüm Yönetimi: Şirketin farklı departmanlarını ve bu departmanlardaki yöneticileri organize eder. Her bir bölümün adı, iletişim bilgileri ve yönetici bilgileri kayıt altına alınır.
+Kullanıcı Yönetimi: Şirketin kullanıcılarını ve bu kullanıcıların yetki seviyelerini yönetir. Örneğin, bir kullanıcı bir yönetici mi yoksa normal bir personel mi olduğu bu sistem üzerinden belirlenebilir.
+Kategori Yönetimi: Çalışanların unvanlarını, cinsiyetlerini, çalıştıkları il ve ilçeleri, ülke bilgilerini ve diğer kategorik bilgileri yönetir.
 Bu tür bir veritabanı, özellikle büyük bir şirkette çalışan bilgilerinin düzenli ve erişilebilir bir şekilde saklanmasını, gerektiğinde hızlıca ulaşılabilmesini ve güncellenebilmesini sağlar. Ayrıca, veri analitiği ve raporlama için de sağlam bir temel sunar.
